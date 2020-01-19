@@ -1,0 +1,1 @@
+This is Lawson Somah's first git project
